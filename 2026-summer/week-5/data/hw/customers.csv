@@ -1,0 +1,101 @@
+customer_id,customer_name,segment,net_terms
+C-1001,Granite Peak Gear,Commercial,180
+C-1002,Highline Outfitters,Commercial,60
+C-1003,Capitol Reef Trading,Commercial,90
+C-1004,Flaming Gorge Supply,Commercial,180
+C-1005,Provo River Outfitters,Commercial,60
+C-1006,Solitude Mountain Group,Commercial,90
+C-1007,Cascade Outdoor Supply,Commercial,180
+C-1008,Uinta Range Trading,Commercial,180
+C-1009,Snowbird Resort Operations,Commercial,60
+C-1010,Deer Valley Hospitality,Commercial,60
+C-1011,Brighton Resort Co,Commercial,180
+C-1012,Bear Lake Provisions,Commercial,90
+C-1013,San Rafael Wholesale,Commercial,60
+C-1014,Bryce Canyon Trading,Commercial,90
+C-1015,Ogden Valley Supply,Commercial,180
+C-1016,Cache Valley Wholesale,Commercial,90
+C-1017,Wasatch Mountain Goods,Commercial,90
+C-1018,Pinnacle Outdoor Group,Commercial,60
+C-1019,Mirror Lake Outfitters,Commercial,60
+C-1020,Dead Horse Trading,Commercial,60
+C-1021,Antelope Island Supply,Commercial,60
+C-1022,Zion Gateway Supply,Commercial,60
+C-1023,Ridge and Pine Sports,Commercial,180
+C-1024,Boulder Field Sports,Commercial,180
+C-1025,Alta Lodge Group,Commercial,60
+C-1026,Riverbend Outdoors,Commercial,180
+C-1027,Basin Outdoor Co,Commercial,60
+C-1028,Sundance Outfitting,Commercial,90
+C-1029,Henry Mountains Supply,Commercial,60
+C-1030,Cottonwood Outdoors,Commercial,60
+C-1031,Echo Canyon Outdoor,Commercial,90
+C-1032,Park City Mountain Lodge,Commercial,90
+C-1033,Timberline Sports,Commercial,60
+C-1034,Summit Edge Retail,Commercial,90
+C-1035,Sage Brush Outfitters,Commercial,60
+C-1036,Powder Mountain Supply,Commercial,60
+C-1037,Moab Adventure Wholesale,Commercial,180
+C-1038,Goblin Valley Gear,Commercial,60
+C-1039,Glacier Trade Outpost,Commercial,180
+C-1040,Logan Canyon Gear,Commercial,90
+C-1041,Cobblestone Cafe,Consumer,30
+C-1042,Yarrow and Sage Spa,Consumer,30
+C-1043,Quail Run Market,Consumer,30
+C-1044,Foothill Florist,Consumer,30
+C-1045,Lantern Hill Inn,Consumer,30
+C-1046,Spruce Street Deli,Consumer,30
+C-1047,Downtown Cycle Shop,Consumer,30
+C-1048,Canyon View Books,Consumer,30
+C-1049,Harvest Moon Market,Consumer,30
+C-1050,Two Rivers Outfitting,Consumer,30
+C-1051,Slate Mountain Books,Consumer,30
+C-1052,Lily Pad Daycare,Consumer,30
+C-1053,Tin Roof Tavern,Consumer,30
+C-1054,Trailhead Cafe,Consumer,30
+C-1055,Bramble Lane Bakery,Consumer,30
+C-1056,Anvil Coffee Roasters,Consumer,30
+C-1057,Corner Coffee House,Consumer,30
+C-1058,Lakeview Diner,Consumer,30
+C-1059,Mossy Rock Cafe,Consumer,30
+C-1060,Paper Crane Stationery,Consumer,30
+C-1061,Juniper Lane Studio,Consumer,30
+C-1062,Red Door Realty,Consumer,30
+C-1063,Garden Court Deli,Consumer,30
+C-1064,Pioneer Books,Consumer,30
+C-1065,Hilltop Barbers,Consumer,30
+C-1066,Frostline Creamery,Consumer,30
+C-1067,Crow Canyon Pottery,Consumer,30
+C-1068,Wildflower Market,Consumer,30
+C-1069,Driftwood Diner,Consumer,30
+C-1070,Acorn Hill Toys,Consumer,30
+C-1071,Salt Flats Coffee,Consumer,30
+C-1072,Cinder Block Brewing,Consumer,30
+C-1073,Crescent Moon Bakery,Consumer,30
+C-1074,Brick Lane Pizza,Consumer,30
+C-1075,Stone Bridge Gallery,Consumer,30
+C-1076,Thistle and Thorn Florist,Consumer,30
+C-1077,Desert Bloom Spa,Consumer,30
+C-1078,Maple Street Cafe,Consumer,30
+C-1079,Golden Crust Pizzeria,Consumer,30
+C-1080,Copper Kettle Tea,Consumer,30
+C-1081,Birchwood Framing,Consumer,30
+C-1082,Third Avenue Studio,Consumer,30
+C-1083,Open Road Cycles,Consumer,30
+C-1084,Sunrise Yoga Studio,Consumer,30
+C-1085,Blue Heron Bistro,Consumer,30
+C-1086,Silver Spoon Catering,Consumer,30
+C-1087,Cedar Street Bakery,Consumer,30
+C-1088,Old Mill Hardware,Consumer,30
+C-1089,Meadowlark Bakery,Consumer,30
+C-1090,Iron Gate Antiques,Consumer,30
+C-1091,Willow Creek Nursery,Consumer,30
+C-1092,Birch Avenue Tailors,Consumer,30
+C-1093,Main Street Pharmacy,Consumer,30
+C-1094,Riverside Bikes,Consumer,30
+C-1095,Velvet Chair Salon,Consumer,30
+C-1096,Marble Arch Tailors,Consumer,30
+C-1097,Pebble Beach Cafe,Consumer,30
+C-1098,Fox Hollow Pet Care,Consumer,30
+C-1099,Aspen Grove Florist,Consumer,30
+C-1100,Stagecoach Diner,Consumer,30

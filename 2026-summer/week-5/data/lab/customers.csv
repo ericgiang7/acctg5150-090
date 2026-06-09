@@ -1,0 +1,101 @@
+customer_id,customer_name,segment,net_terms
+C-1001,Snowbird Resort Operations,Commercial,60
+C-1002,Basin Outdoor Co,Commercial,60
+C-1003,Timberline Sports,Commercial,90
+C-1004,Summit Edge Retail,Commercial,90
+C-1005,Cascade Outdoor Supply,Commercial,60
+C-1006,Park City Mountain Lodge,Commercial,180
+C-1007,Wasatch Mountain Goods,Commercial,60
+C-1008,Moab Adventure Wholesale,Commercial,90
+C-1009,Henry Mountains Supply,Commercial,90
+C-1010,Deer Valley Hospitality,Commercial,90
+C-1011,Mirror Lake Outfitters,Commercial,90
+C-1012,Logan Canyon Gear,Commercial,60
+C-1013,Granite Peak Gear,Commercial,90
+C-1014,Flaming Gorge Supply,Commercial,60
+C-1015,Goblin Valley Gear,Commercial,180
+C-1016,Sundance Outfitting,Commercial,90
+C-1017,Riverbend Outdoors,Commercial,180
+C-1018,Solitude Mountain Group,Commercial,90
+C-1019,Pinnacle Outdoor Group,Commercial,90
+C-1020,Uinta Range Trading,Commercial,90
+C-1021,Ogden Valley Supply,Commercial,180
+C-1022,Antelope Island Supply,Commercial,90
+C-1023,Bear Lake Provisions,Commercial,180
+C-1024,Alta Lodge Group,Commercial,60
+C-1025,Sage Brush Outfitters,Commercial,60
+C-1026,Provo River Outfitters,Commercial,90
+C-1027,Highline Outfitters,Commercial,180
+C-1028,Boulder Field Sports,Commercial,60
+C-1029,Bryce Canyon Trading,Commercial,90
+C-1030,Cottonwood Outdoors,Commercial,90
+C-1031,San Rafael Wholesale,Commercial,180
+C-1032,Capitol Reef Trading,Commercial,90
+C-1033,Brighton Resort Co,Commercial,90
+C-1034,Echo Canyon Outdoor,Commercial,90
+C-1035,Powder Mountain Supply,Commercial,180
+C-1036,Cache Valley Wholesale,Commercial,180
+C-1037,Zion Gateway Supply,Commercial,60
+C-1038,Glacier Trade Outpost,Commercial,90
+C-1039,Dead Horse Trading,Commercial,90
+C-1040,Ridge and Pine Sports,Commercial,60
+C-1041,Spruce Street Deli,Consumer,30
+C-1042,Stagecoach Diner,Consumer,30
+C-1043,Maple Street Cafe,Consumer,30
+C-1044,Wildflower Market,Consumer,30
+C-1045,Brick Lane Pizza,Consumer,30
+C-1046,Acorn Hill Toys,Consumer,30
+C-1047,Trailhead Cafe,Consumer,30
+C-1048,Open Road Cycles,Consumer,30
+C-1049,Velvet Chair Salon,Consumer,30
+C-1050,Third Avenue Studio,Consumer,30
+C-1051,Yarrow and Sage Spa,Consumer,30
+C-1052,Thistle and Thorn Florist,Consumer,30
+C-1053,Desert Bloom Spa,Consumer,30
+C-1054,Harvest Moon Market,Consumer,30
+C-1055,Garden Court Deli,Consumer,30
+C-1056,Sunrise Yoga Studio,Consumer,30
+C-1057,Lily Pad Daycare,Consumer,30
+C-1058,Lakeview Diner,Consumer,30
+C-1059,Silver Spoon Catering,Consumer,30
+C-1060,Tin Roof Tavern,Consumer,30
+C-1061,Canyon View Books,Consumer,30
+C-1062,Two Rivers Outfitting,Consumer,30
+C-1063,Paper Crane Stationery,Consumer,30
+C-1064,Juniper Lane Studio,Consumer,30
+C-1065,Foothill Florist,Consumer,30
+C-1066,Main Street Pharmacy,Consumer,30
+C-1067,Corner Coffee House,Consumer,30
+C-1068,Anvil Coffee Roasters,Consumer,30
+C-1069,Lantern Hill Inn,Consumer,30
+C-1070,Cobblestone Cafe,Consumer,30
+C-1071,Riverside Bikes,Consumer,30
+C-1072,Driftwood Diner,Consumer,30
+C-1073,Pioneer Books,Consumer,30
+C-1074,Downtown Cycle Shop,Consumer,30
+C-1075,Pebble Beach Cafe,Consumer,30
+C-1076,Crow Canyon Pottery,Consumer,30
+C-1077,Aspen Grove Florist,Consumer,30
+C-1078,Old Mill Hardware,Consumer,30
+C-1079,Golden Crust Pizzeria,Consumer,30
+C-1080,Birch Avenue Tailors,Consumer,30
+C-1081,Salt Flats Coffee,Consumer,30
+C-1082,Stone Bridge Gallery,Consumer,30
+C-1083,Hilltop Barbers,Consumer,30
+C-1084,Red Door Realty,Consumer,30
+C-1085,Cedar Street Bakery,Consumer,30
+C-1086,Bramble Lane Bakery,Consumer,30
+C-1087,Mossy Rock Cafe,Consumer,30
+C-1088,Cinder Block Brewing,Consumer,30
+C-1089,Copper Kettle Tea,Consumer,30
+C-1090,Iron Gate Antiques,Consumer,30
+C-1091,Willow Creek Nursery,Consumer,30
+C-1092,Frostline Creamery,Consumer,30
+C-1093,Blue Heron Bistro,Consumer,30
+C-1094,Quail Run Market,Consumer,30
+C-1095,Marble Arch Tailors,Consumer,30
+C-1096,Crescent Moon Bakery,Consumer,30
+C-1097,Fox Hollow Pet Care,Consumer,30
+C-1098,Meadowlark Bakery,Consumer,30
+C-1099,Birchwood Framing,Consumer,30
+C-1100,Slate Mountain Books,Consumer,30
