@@ -60,8 +60,9 @@ why the lab attaches `net_terms`: you need it to find the due date.
 - **Paid in full.** Every invoice with a paid_date is paid in full. No partials.
 - **Voids: none.** Every invoice is a live receivable, open or paid in full.
 - **Late-payment trickle.** Most slow payers settle within ~90 days past due, but a
-  small share of genuinely delinquent accounts pay far later. About 0.3% of payments
-  land 181+ days past due (the latest is ~305 days), so the high buckets see a
+  small share of genuinely delinquent accounts pay far later. Well under 1% of
+  payments land 181+ days past due (the latest land roughly 10 to 11 months past
+  due; the exact share varies slightly by seed), so the high buckets see a
   realistic trickle of collections rather than a hard cliff.
 - **Days to pay** (a separate metric, for the scatter and histogram) stays measured
   from the **invoice date**: paid_date minus invoice_date. It answers "how long did
