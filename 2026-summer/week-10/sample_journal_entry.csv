@@ -2,12 +2,3 @@ account,debit,credit
 Cash,48.27,
 Sales Revenue,,45.00
 Sales Tax Payable,,3.27
-NOTE,SAMPLE ONLY. This journal entry comes from 3 made-up transactions.,
-NOTE,Row 1: 2 x $10.00 = $20.00 amount. Tax = round(20.00 x 0.0725) = round(1.45) = 1.45,
-NOTE,Row 2: 1 x $15.00 = $15.00 amount. Tax = round(15.00 x 0.0725) = round(1.0875) = 1.09,
-NOTE,Row 3: 1 x $10.00 = $10.00 amount. Tax = round(10.00 x 0.0725) = round(0.725) = 0.73,
-NOTE,Sales Revenue credit = sum of amount = 20.00 + 15.00 + 10.00 = 45.00,
-NOTE,Sales Tax Payable credit = sum of the per-row tax column = 1.45 + 1.09 + 0.73 = 3.27,
-NOTE,Cash debit = sum of amount + tax = 45.00 + 3.27 = 48.27,
-NOTE,Sum the per-row tax column for Sales Tax Payable. Do not multiply the total by 7.25%. Here 45.00 x 0.0725 = 3.2625 rounds to 3.26 so the two methods differ by a penny.,
-NOTE,It is not the answer to the real dataset. Yours will be much larger.,
