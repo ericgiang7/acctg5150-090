@@ -1,0 +1,3 @@
+transaction_id,date,amount,reason,method
+EXAMPLE-001,2026-03-15,4210.55,Amount is far above every other sale that day; likely a keying error,IQR upper fence
+EXAMPLE-002,2026-04-02,-64.00,Negative amount looks like a return entered as a sale,Domain rule: amount < 0

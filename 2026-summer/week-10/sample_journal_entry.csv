@@ -1,0 +1,7 @@
+account,debit,credit
+Cash,53.63,
+Sales Revenue,,50.00
+Sales Tax Payable,,3.63
+NOTE,SAMPLE ONLY. This journal entry comes from 3 made-up transactions,
+NOTE,(2 x $10.00) + (1 x $15.00) + (3 x $5.00) = $50.00 plus 7.25% tax.,
+NOTE,It is not the answer to the real dataset. Yours will be much larger.,
