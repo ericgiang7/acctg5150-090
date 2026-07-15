@@ -12,7 +12,7 @@ write any odd records to a separate flagged file for review.
 
 | Column | Type | Meaning |
 |---|---|---|
-| `transaction_id` | text | Record id, normally unique. A couple are duplicated on purpose. |
+| `transaction_id` | text | Record id, normally unique. A couple of ids collide on purpose (two different rows share one id). |
 | `date` | date | The transaction date. Normally matches the file name. A few are wrong on purpose. |
 | `store_id` | text | Which store rang the sale (S01 through S05). |
 | `sku` | text | Product code. |
@@ -35,10 +35,24 @@ net revenue and sales tax payable:
 
 The debit equals the sum of the two credits, so the entry balances.
 
+Note: the sample entry debits the whole gross to a single Cash line for
+simplicity. A real entry would split that debit by `payment_method` (cash, card,
+and online post to different cash or receivable accounts); collapsing it to one
+line is a teaching simplification.
+
 ## About the odd records
 
-Some records are unusual on purpose: extreme amounts, negative amounts, zero
-prices, duplicate ids, and bad dates. This is what real exported data looks like.
+Some records are unusual on purpose, and they are not all the same kind of odd:
+
+- **Legitimate business events.** A negative amount is a return (a negative
+  quantity). A zero unit_price is a free or promo item. These are real events,
+  not mistakes.
+- **Genuine data problems.** Bad or out-of-range dates, extreme or off-by-10x
+  amounts from a keying error, and id collisions (two different rows sharing one
+  `transaction_id`). These are errors in the export.
+
+Both kinds get flagged for review, but the two are different in kind. This is
+what real exported data looks like.
 
 Two rules for the odd records:
 
