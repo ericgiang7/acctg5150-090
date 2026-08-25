@@ -25,7 +25,7 @@
 
 ## 3. Current technical skills
 
-`Name the tool, then list one to three things you can do without looking them up, or write never used. This is a starting line, not a score, and there is no wrong answer. Self-ratings like "comfortable with Excel" tell a future session nothing it can act on.`
+`Name a software or technical skill, and list a few things you can do off memory. There is no wrong answer. Include some things you would like to learn. Some examples of tools below:`
 
 - **Excel or Google Sheets:**
 - **Python:**
@@ -63,7 +63,7 @@
 
 ## 5. How I learn and what makes concepts stick
 
-`How you actually absorb new material, in three to five sentences. The modes that work for you, such as reading documentation first, watching someone do it, working an example, or breaking something and reading the error. Also the kinds of explanations that land, such as analogies, worked examples, code, plain English, or edge cases.`
+`How do you absorb new material? Three to five sentences. The modes that work for you, such as reading documentation first, watching someone do it, working an example, or breaking something and reading the error. Also the kinds of explanations that land, such as analogies, worked examples, code, plain English, or edge cases.`
 
 ---
 
@@ -111,6 +111,6 @@
 
 ## 8. Review it
 
-Try pasting this into an LLM with the prompt below with your entire document and see what it comes back with.
+`Try pasting this entire document into an LLM with the prompt below and see what it comes back with.`
 
 > Read the profile above and ask me five questions about it. Focus on my skill claims, my career picture, and my standing instructions, and target the places where I am vague or generic or where two sections do not agree with each other. End with one specific edit you would recommend.
