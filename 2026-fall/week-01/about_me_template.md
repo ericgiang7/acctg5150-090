@@ -23,9 +23,9 @@
 
 ---
 
-## 3. Current technical skills
+## 3. Skills and goals
 
-`Name a software or technical skill, and list a few things you can do off memory. There is no wrong answer. Include some things you would like to learn. Some examples of tools below:`
+`Two lists. First, what you know now. Name a software or technical skill, and list a few things you can do off memory. There is no wrong answer. Some examples of tools below:`
 
 - **Excel or Google Sheets:**
 - **Python:**
@@ -36,6 +36,14 @@
 - **Other tools you have actually used:**
 
 `Useful: "Excel. I can build a pivot table without looking up the steps, I have written VLOOKUP and SUMIFS, and I have not used Power Query."`
+
+`Second, what you want to learn this semester. One to three things you want to be able to do by the end of the term. You can reference the skills above or call out broad skills such as regression analysis.`
+
+`Vague: "Be better at Python." Specific: "Load a CSV, clean missing values, and produce a chart without searching for syntax. (Today: I have not used Python.)"`
+
+- **Goal 1:**
+- **Goal 2:** (optional)
+- **Goal 3:** (optional)
 
 ---
 
