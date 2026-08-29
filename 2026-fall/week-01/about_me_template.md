@@ -1,124 +1,75 @@
-# About Me
+1. Background and experiences
+   
+I am currently in my fifth year of college majoring in accounting. My tax classes have been some of the most meaningful courses I have taken because I have found the subject interesting and useful. I do not have any significant work or internship experience yet. My original interest in accounting came from my interest in money and wanting to better understand how it works. As I have progressed through my accounting courses, I have become more interested in the different areas of accounting and how they apply to real-world situations.
 
-`This is your starting profile. It tells a future LLM session who you are, what you can already do, what you actually understand, and how you want to be helped. You will upload it at the start of most sessions this term. Aim for one to two pages rendered. Delete every one of these backtick instruction blocks before you submit.`
+Carrer Picture, three to five years out
+Target role/title: Tax accountant
 
----
+Employer type: I would be interested in working for either a large or small accounting firm.
 
-## 1. Background and experiences
+Credentials: I plan on getting my CPA.
 
-`Where you come from, academically and otherwise. Three to six sentences. Coursework, internships, jobs, and projects that shaped how you think about accounting or analytics. Part-time work and school projects count.`
+What I'm still figuring out: I am still unsure about how long it will take me to reach my career goals and become a CPA.
 
----
+3. Skills and Goals
 
-## 2. Career picture, three to five years out
+Current skills:
 
-`Where you see yourself roughly five years after graduation. Be specific where you can and accurate where you are not, because uncertainty is useful context too. This section frames the rest of the file.`
+Excel: Some experience
+Python: No experience
+SQL: No experience
+R: No experience
+Power BI: No experience
+Tableau: Some experience
+Power Query: Some experience
 
-- **Target role or title:**
-- **Target employer type** (firm size, sector, in-house or public):
-- **Credentials you are working toward** (CPA, CFA, MBA, none yet):
-- **What you are still figuring out:**
+Things I want to learn this semester:
 
-`Vague: "I want to be successful in accounting."` `Specific: "Audit senior at a Big 4 firm on tech-sector engagements, CPA within three years." Also fine: "Leaning audit, but I want a year in tax before I commit."`
+Learn Python.
+Become better at using Excel.
+Learn how to use AI effectively for accounting.
 
----
+4. Callibration Check
+   
+1. Rating: 4
 
-## 3. Skills and goals
+I think a method can be deterministic and still be wrong. With a lot of things changing in our everyday lives, methods that seem to work can change due to the changing environment. This does not necessarily mean the method does not work anymore, but rather that the outcomes require greater consideration of the changing needs and circumstances.
 
-`Two lists. First, what you know now. Name a software or technical skill, and list a few things you can do off memory. There is no wrong answer. Some examples of tools below:`
+2. Rating: 1
 
-- **Excel or Google Sheets:**
-- **Python:**
-- **SQL:**
-- **R:**
-- **Power BI or Tableau:**
-- **Power Query:**
-- **Other tools you have actually used:**
+I am not too sure about the answer to this question. I am not very knowledgeable about AI yet, so I do not feel confident in my answer.
 
-`Useful: "Excel. I can build a pivot table without looking up the steps, I have written VLOOKUP and SUMIFS, and I have not used Power Query."`
+3. Rating: 2
 
-`Second, what you want to learn this semester. One to three things you want to be able to do by the end of the term. You can reference the skills above or call out broad skills such as regression analysis.`
+I think the answer is coming from other chat databases and information from other people. However, that is just a guess, and I am not completely sure how the AI gets its answers.
 
-`Vague: "Be better at Python." Specific: "Load a CSV, clean missing values, and produce a chart without searching for syntax. (Today: I have not used Python.)"`
+4. Rating: 3
 
-- **Goal 1:**
-- **Goal 2:** (optional)
-- **Goal 3:** (optional)
+I think one reason could be because of misapplied payments, since those payments may not match the correct invoices. I do not know any other reasons why this could happen.
 
----
+5. How I learn and what makes concepts stick
 
-## 4. Calibration check
+I learn best by watching someone demonstrate something because I am a visual learner. Learning things step by step with a visual explanation helps me understand concepts a lot. Making connections to things I already know helps me remember something after I learn it. If I am confused about a concept, talking with someone else about it helps me understand it better.
 
-`This section is graded for completeness only. I encourage you to try the rating without using AI, as it is a useful benchmark.`
+6. Ways I want an LLM to help me learn
+Worked example, then a variant— I want the LLM to walk me through problems step by step so I can understand how to solve them.
+Practice generator — I want the LLM to give me practice questions so I can test my understanding and improve my skills.
+Critique without solving — I want the LLM to check my work and help me identify mistakes so I can understand what I did wrong.
 
-**Part one.** Rate how confident you are that you could answer each question well, 1 to 5. 1 means you could not. 5 means you could answer it and handle a follow-up.
-
-| # | Question | Confidence 1-5 |
-| :---- | :---- | :---- |
-| 1 | Can a method be deterministic and still be wrong? |  |
-| 2 | You ask a chat product the same question twice, in two fresh sessions, and get two different answers. What could account for that? |  |
-| 3 | A model with no documents attached and no web search answers a question about a company's most recent quarter. Where is that answer coming from? |  |
-| 4 | An AR aging schedule shows 40% of the balance sitting in the 91-plus bucket. Name two things that could produce that which are not a collections problem. |  |
-
-**Part two.** Now answer all four questions from above, without AI, in two to four sentences each. If you do not know, write what you do know and then write *I am not sure past this point*. That is a real answer and it scores the same as a confident one.
-
-* **Q1:**
-* **Q2:**
-* **Q3:**
-* **Q4:**
-
----
-
-## 5. How I learn and what makes concepts stick
-
-`How do you absorb new material? Three to five sentences. The modes that work for you, such as reading documentation first, watching someone do it, working an example, or breaking something and reading the error. Also the kinds of explanations that land, such as analogies, worked examples, code, plain English, or edge cases.`
-
----
-
-## 6. Ways I want an LLM to help me learn
-
-`A model can support learning in a number of fairly distinct ways, and most people use one or two because those are the ones they happened to find first. Read the menu, pick THREE you want to lean on this term, and rank them. Add your own if something is missing.`
-
-| Mode | What it looks like in practice |
-| :---- | :---- |
-| Layered explanation | Explain it three times at increasing depth, then ask me which level landed |
-| Socratic | Ask me questions until I get there, and do not tell me the answer |
-| Analogy to what I know | Explain it in terms of something I already understand well |
-| Worked example, then a variant | Show me one all the way through, then hand me a similar one to do alone |
-| Critique without solving | Tell me what is wrong with my reasoning, and do not fix it for me |
-| Rubber duck | I explain it to you, and you tell me where my explanation breaks |
-| Translate representations | Convert between a formula, plain English, and code so I can see the same idea three ways |
-| Practice generator | Write me practice problems and hold the answer key until I have tried |
-| Pre-mortem | Assume my answer is wrong, and tell me the most likely reason |
-| Source-then-quiz | Summarize a standard or a filing into plain terms, then quiz me on it |
-| Interview me | Ask me questions to find what I do not know that I do not know |
-
-- **First choice:**
-- **Second choice:**
-- **Third choice:**
-
----
-
-## 7. Standing instructions
-
-`Where the choices above become something a model can act on. The starter rows are examples, so edit or delete them. At least six rows you would actually want followed.`
-
-| When I... | I want the LLM to... |
-| :---- | :---- |
-| Am stuck on a problem | Ex. Ask me one clarifying question before answering |
-| Get an error message | Ex. Walk me through the diagnosis, and do not just hand me the fix |
-| Do not understand a concept | Ex. Explain it with an accounting example |
-| Get a number or a fact from you | Ex. Show the work and tell me how to verify it against the source |
-| Am about to copy-paste your answer | Ex. Make me explain the reasoning back first |
-| Finish a draft | Ex. Quiz me on it before I submit |
-|  |  |
-
-`Add a row whenever you notice a habit you want encouraged or interrupted. This table is the most-used part of this file by the end of the term.`
-
----
-
+7. Standing instructions
+When I...	I want the LLM to...
+Am learning a new concept	Explain concepts visually.
+Am working through a problem	Walk through the problem step by step.
+Am confused about a concept	Use simple explanations that are easy to understand.
+Finish learning a concept	Give me practice problems so I can test my understanding.
+Make a mistake in a problem	Explain where in the process I went wrong instead of only giving me the correct answer.
+Am learning an accounting concept	Use real-world examples to help me understand how it applies.
 ## 8. Review it
 
-`Try pasting this entire document into an LLM with the prompt below and see what it comes back with.`
+Skill claims: You say you have “some experience” with Excel, Tableau, and Power Query. What can you actually do with each one—for example, specific functions, tools, or assignments you have completed?
+Career picture: You want to become a tax accountant and get your CPA, but you say you're unsure how long it will take. What specifically are you unsure about—finishing your degree, meeting the CPA education requirements, passing the exams, or something else?
+AI + accounting: You want to learn how to use AI effectively for accounting, but your standing instructions don't specifically mention AI use in accounting. What would “effective” AI use look like to you—for example, checking tax research, explaining accounting rules, working through calculations, or something else?
+Standing instructions: Your instructions say you want explanations to be simple and visual, but they don't say what you want the AI to do when a simple explanation isn't enough. Would you want it to give you a more technical explanation after the simple one?
+Career vs. learning goals: Your career goal is specifically tax accounting, while your semester goals are Python, Excel, and AI. How do you see those technical skills helping you become a better tax accountant? This is an area where your profile could make a stronger connection between your career picture and your learning goals.
 
-> Read the profile above and ask me five questions about it. Focus on my skill claims, my career picture, and my standing instructions, and target the places where I am vague or generic or where two sections do not agree with each other. End with one specific edit you would recommend.
+I would change “Excel: Some experience” to a more specific description of what you can actually do. “Some experience” is vague, and an AI would have a much better understanding of your skill level if you wrote something like “Basic Excel skills; comfortable with common formulas and spreadsheets, but I want to become more advanced.”
